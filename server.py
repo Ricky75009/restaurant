@@ -1,8 +1,8 @@
 print('love')
-import cgi
 import http.server
 import socketserver
-import os
+
+
 path="/Users/macbook/Desktop/Roman/Scolaire/CODE/Projects/8- SE_foundation/foundations-restaurant/restaurants.txt"
 resto_area=[]
 resto_classes=[]
