@@ -3,7 +3,7 @@ import http.server
 import socketserver
 
 
-path="/Users/macbook/Desktop/Roman/Scolaire/CODE/Projects/8- SE_foundation/foundations-restaurant/restaurants.txt"
+path="./restaurants.txt"
 resto_area=[]
 resto_classes=[]
 list_of_res=[]
