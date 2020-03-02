@@ -3,3 +3,4 @@ Umami,Kreuzberg
 BurgerMeister,Kreuzberg
 Mustafas,Mehringdamm
 LAPOKE,Mitte
+Mc Do,Moabit

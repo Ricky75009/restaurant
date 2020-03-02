@@ -20,8 +20,6 @@ for i in range(number_of_res):
     resto_area.append(list_of_res[i].split(','))
 
 
-for i in resto_area:
-    i[1]=i[1][:-1]
 
 class Restaurants():
     '''this is about having restaurants'''
@@ -50,6 +48,16 @@ index_text='''<!DOCTYPE html>
     
     <!-- import the webpage's javascript file -->
     <script src="/script.js" defer></script>
+    <style>
+h1:hover {
+  	color:pink;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+}
+</style>
    </head>  
   
 
